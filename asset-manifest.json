@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Asana-project/static/css/main.b7a49f99.css",
-    "main.js": "/Asana-project/static/js/main.348c6208.js",
+    "main.css": "/Asana-project/static/css/main.34236a89.css",
+    "main.js": "/Asana-project/static/js/main.668621c9.js",
     "static/media/render.png": "/Asana-project/static/media/render.93223812b21c499831bc.png",
     "static/media/bg.png": "/Asana-project/static/media/bg.66cc4935b9801419c85a.png",
     "static/media/logo.png": "/Asana-project/static/media/logo.026655596e5cccb99ccf.png",
     "index.html": "/Asana-project/index.html",
-    "main.b7a49f99.css.map": "/Asana-project/static/css/main.b7a49f99.css.map",
-    "main.348c6208.js.map": "/Asana-project/static/js/main.348c6208.js.map"
+    "main.34236a89.css.map": "/Asana-project/static/css/main.34236a89.css.map",
+    "main.668621c9.js.map": "/Asana-project/static/js/main.668621c9.js.map"
   },
   "entrypoints": [
-    "static/css/main.b7a49f99.css",
-    "static/js/main.348c6208.js"
+    "static/css/main.34236a89.css",
+    "static/js/main.668621c9.js"
   ]
 }
